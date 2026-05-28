@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpalidate",
+        "uuid": 33179245,
+        "checksum": "bfkbsg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
